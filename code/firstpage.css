@@ -5,8 +5,33 @@ body {
 }
 
 #initialTitle {
-    text-align: center;
     width: 56%;
     height: 10%;
-    color: blue;
+    font-size: 72px;
+    text-align: center;
+    margin: auto;
+    font-family: 'Ribeye', cursive;
+    letter-spacing: 70px;
+    top: 7%;
 }
+
+#initialTitleHang {
+    color:#B70A0A;
+}
+
+#initialTitleMan {
+color: #1E0C1D;
+}
+
+#startButton {
+    position: absolute;
+    left: 6%;
+    top: 86%;
+    background-color: transparent;
+    font-size: 48px;
+    font-family: 'Ribeye', cursive;
+    color: #ffffff;
+    letter-spacing: 0.7em;
+    border: none;
+}
+    
