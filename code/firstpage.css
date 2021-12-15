@@ -1,0 +1,12 @@
+body {
+    background-image: url(/imagens/hangman.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#initialTitle {
+    text-align: center;
+    width: 56%;
+    height: 10%;
+    color: blue;
+}
